@@ -1,5 +1,5 @@
 {
-  "name": "babybot",
+  "name": "qwerty bot",
   "version": "1.0.0",
   "description": "Jangan numpang nama doang",
   "main": "index.js",
@@ -13,15 +13,15 @@
   "keywords": [
     "k"
   ],
-  "author": "RAMLAN",
+  "author": "BARKAT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ramlan666/babybot.git"
+    "url": "git+https://github.com/seberang-123/bot-waw.git"
   },
   "bugs": {
-    "url": "https://github.com/Ramlan666/babybot/issues"
+    "url": "https://github.com/seberang-123/bot-waw/issues"
   },
-  "homepage": "https://github.com/Ramlan666/babybot/readme",
+  "homepage": "https://github.com/seberang-123/bot-waw/readme",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
