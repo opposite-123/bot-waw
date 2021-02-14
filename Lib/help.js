@@ -33,6 +33,6 @@ Jika tidak paham ketik *${prefix}bingungcok*
 ┃│➸ *${prefix}ownermenu*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
-🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${BARKAT ID}* ]----- 🔰`
 }
 exports.help = help
