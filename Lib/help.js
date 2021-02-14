@@ -1,4 +1,4 @@
-const help = (pushname, prefix, botName, ownerName, reqXp, getLevelingLevel, sender, _registered, uangku) => {
+const help = (pushname, prefix, QWERTY BOT, BARKAT ID, reqXp, getLevelingLevel, sender, _registered, uangku) => {
         return `🔰 -----[ *MENU ${botName}* ]----- 🔰
 Hallo, ${pushname} 👋
 Semoga harimu Menyenangkan User, ${sender.split("@")[0]}
@@ -36,3 +36,5 @@ Jika tidak paham ketik *${prefix}bingungcok*
 🔰 -----[ *POWERED BY ${BARKAT ID}* ]----- 🔰`
 }
 exports.help = help
+
+
