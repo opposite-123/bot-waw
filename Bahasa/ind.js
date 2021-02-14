@@ -27,7 +27,7 @@ exports.noregis = () => {
 }
 
 exports.baned = () => {
-	return`*「❗」SORRY SORRY AJA NIH BRO, TAPI KAU SUDAH KU BANNED YAHAHAHA HAYUUU :V*`
+	return`*「❗」AKUN ANDA SEDANG DI BANNED「❗」
 }
 
 exports.rediregis = () => {
