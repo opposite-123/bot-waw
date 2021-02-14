@@ -1,4 +1,4 @@
-const download = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, _registered) => {
+const download = (pushname, prefix, QWERTY BOT, BARKAT ID, getLevelingLevel, sender, _registered) => {
 	return `🔰 -----[ *DOWNLOAD MENU* ]----- 🔰
 Hallo, ${pushname} 👋
 Semoga harimu Menyenangkan User, ${sender.split("@")[0]}
@@ -16,6 +16,6 @@ Jika tidak paham ketik *${prefix}bingungcok*
 ┃│➸ *${prefix}play*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
-🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${BARKAT ID}* ]----- 🔰`
 }
 exports.download = download
