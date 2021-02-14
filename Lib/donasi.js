@@ -7,10 +7,10 @@ _“jauhilah api neraka, walau hanya dengan bersedekah sebiji kurma (sedikit). J
 ║ *DONASI UNTUK ${botName}*
 ╠════════════════════
 ║╭──❉ *DONASI BOS* ❉─────
-║│➸ *OVO*: _0855-5924-0360_
-║│➸ *DANA*: _0855-5924-0360_
-║│➸ *PULSA*: _0812-1444-1027_
-║│➸ *GOPAY*: _0855-5924-0360_
+║│➸ *OVO*: _0877-2371-9515_
+║│➸ *LINK AJA*:
+║│➸ *PULSA*: _0877-2371-9515_
+║│➸ *GOPAY*: _0813-2237-3824_
 ║╰──────────────────
 ╠════════════════════
 ║         ${botName}
